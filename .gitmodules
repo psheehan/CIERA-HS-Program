@@ -1,0 +1,3 @@
+[submodule "IDEASpy"]
+	path = IDEASpy
+	url = https://github.com/CIERA-Northwestern/IDEASpy.git
